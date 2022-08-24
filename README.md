@@ -1,1 +1,1 @@
-# Javascript30
+# JavaScript30
